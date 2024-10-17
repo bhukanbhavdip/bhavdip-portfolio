@@ -37,7 +37,7 @@ export function Project() {
               <div className="project-links">
                 <a href="https://github.com/bhukanbhavdip/User-Task-Management/" target="_blank" rel="noreferrer">
                   <img src={githubIcon} alt="Visit site" /> </a>
-                <a href="https://usertaskmanagement.netlify.app/" target="_blank" rel="noreferrer">
+                <a href="https://user-task-management-frontend.vercel.app/" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" /></a>
               </div>
             </header>
